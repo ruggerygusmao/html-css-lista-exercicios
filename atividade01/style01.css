@@ -1,0 +1,23 @@
+body{
+    background-color: lightcyan;
+}
+
+p{
+    color: #8b0000;
+    text-transform: capitalize;
+}
+
+#p1{
+    text-align: right;
+}
+
+h1{
+    font-style: italic;
+    font-variant:small-caps;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-decoration: line-through;
+}
